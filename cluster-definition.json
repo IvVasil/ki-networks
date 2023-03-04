@@ -1,0 +1,50 @@
+{
+	"name": "Staking_Rewards",
+	"uuid": "1ce04356-ffa7-4569-8cf4-ce071c4ef853",
+	"creator": {
+		"address": "0xa65e20B10c4DBfCCfB52c294767fD4a5287c3Cc9",
+		"config_signature": "0xdade79d39efef0816dd8172e6bfb3662240ecff963ef9b6c3c81c29465955bab7c51b5f2afb3755b7e428fda2a237c4cfbc5e1540f3e090d6f8333af723c1cbd1b"
+	},
+	"version": "v1.4.0",
+	"num_validators": 1,
+	"threshold": 4,
+	"dkg_algorithm": "default",
+	"fork_version": "0x00001020",
+	"config_hash": "0x186cf09b4a9eb2a0df6c2e8464f66bb7475409213df2ac7bf519cf8554daf81c",
+	"timestamp": "2023-03-04T15:55:41.892Z",
+	"operators": [
+		{
+			"address": "0xa65e20B10c4DBfCCfB52c294767fD4a5287c3Cc9",
+			"enr": "enr:-HW4QPI90ymuBe9WC54WxFLbgyZefctArOOVcsHm4qLnkbKVQevRJXhTNQVuK11FW3_ly2-Cxze_XhK8ZSDOjn6JxRCAgmlkgnY0iXNlY3AyNTZrMaECHv8zNDsdTQhIi32i8tl1giSgoXXSzzMDBU3vAGmdAQU",
+			"enr_signature": "0x21d5d77581ffca77ebf13f39034bd77330a93b85f77ce270588727a6341af1d5002fded7d5e4dfc5fab179bb0c6d744f8cf3f23e5b3156474e430c5481bd63561b",
+			"config_signature": "0x2ade1239e3d582e7b052864b64f8cacaf0d79f0253afd39366cb4424e7a7e47a6f3157dfda31dfc4e4e94fb5f6e19ad9235c31f7db7ea3764bb848c5607caf551c"
+		},
+		{
+			"address": "0xb2bbc5c33BD5cefE217fAC617CBd1174D69CCE85",
+			"enr": "enr:-HW4QDGxxj90gP7YY-xTRcKw4tABWE37RPhH4OM7FqcrgSviWOtQcFUU6nEPrSFw0iSTJKFsOEgz7EOrzcLFw9u2yiCAgmlkgnY0iXNlY3AyNTZrMaED3w1kDoY2QYmeGTZ3cNIcsOlEfpnjnwW_AVDdw5GEk8k",
+			"enr_signature": "0xa19e8303ff3184e5e40d9e79cf37e6dfb19b35f23d4f7362a55438d15db6bad6335cb37aa2fe0fbb432428c574639686c087d16789558a5bc78d59a07002666c1b",
+			"config_signature": "0x99c0ef3932a54773cf0a55b1ff3605d0538f2311a92548fa9668fd4e51d06202403e38b5e425c69dcb45985fbe1ac0b505c995489863790c8c2c760f72d9ffd61c"
+		},
+		{
+			"address": "0x09e2F3BB3580b3ec71EB0103003CDd0D95421991",
+			"enr": "enr:-HW4QF_Y8JZpT9ZtBDaE9uktQ6NsQsDI85XEJVq00g2ehhfIDIXFY5hWNCMcwbE_v0SgAQfNvzFw8VyDFP0EZsutqdaAgmlkgnY0iXNlY3AyNTZrMaECQzeePGjoEC5RmMeFECAskzD1RkJohfmybUPKbv8WDUQ",
+			"enr_signature": "0x2b7bfb63e310e7a0a0e517928913fb57682ffe0168f30cd8fb8b4ccdf8510eb43ceeb4103144ddb096f6bbf6fdaa80870f5506caa1ea2268edbf7e61b5338b3c1b",
+			"config_signature": "0x1f1bc0082b32f46fa659a069d784705834dd291a02b4ef1e16dbd033606acf7a247b16c8a4cd27811719cb680c0ab5c1b5d7d5095dab937fec9167b40dee33a41b"
+		},
+		{
+			"address": "0x1BA96139Fca4409dF6D9a3CaEeadED2A7582c035",
+			"enr": "enr:-HW4QJxRTObkULdJ4Kwj0TH2K4dMoL1JiHTd3JSGmGTnag-RPnVWYClNM56_FVI2cr_2GNX5PHO6aOwptK28UGgIy1-AgmlkgnY0iXNlY3AyNTZrMaECpnjrGNLuUHug6p9A96qqiYO3Sl47jLOmhr06fq__6CM",
+			"enr_signature": "0x47aeebb46a070f3ce8635ad477f404487a2d52613c44dd7c4a98ad8fcfb93a8c0367642b05a05bc3c793857201f33845cf464d07ebb586cbadde028d20da73341c",
+			"config_signature": "0x6676a1a83f56dccdbe85bd3fe2c9f2e09d7f714530f790561c694399b52eaf265f2139e8528becb47471e13b0a5d1824034afea5940fdae0891ff0aab69c73351b"
+		},
+		{
+			"address": "0x79F994D5c3c62DE04d6E26e9B05b9C47FcDf8FB0",
+			"enr": "enr:-HW4QLK79AGvzCMtsKidSe583fs3wbHRpvHf5QKxP9vdxpuIXsYEf4j1fF0KvtL81u6z-BDGAo-cW1Kai8_QSaPAx2mAgmlkgnY0iXNlY3AyNTZrMaECmsRRJXgJ1c1P8cwXqFC2D76-rAjeVpN4eW6p_U2hiuY",
+			"enr_signature": "0x209c1fe95088978be00c826edbc281fc60785c860d8b1bfbce7501bdab9784ee4c13562378ea17bf73c688ef4c82a89153c1befcf7ac569f5f7041e56219cf771b",
+			"config_signature": "0x048863c31997d5253e044fb68ce2ec5c422c7a69fdd55c394e81dd94b5ade60d10c0b497af64d6ad2366532ce6ce5362bf82f1c65f4b5908d230a69914b1cc871c"
+		}
+	],
+	"fee_recipient_address": "0xbAd89056DECCb8287325Ee6Ad1e0C882fB4Df6aE",
+	"withdrawal_address": "0xbAd89056DECCb8287325Ee6Ad1e0C882fB4Df6aE",
+	"definition_hash": "0x8975f42ebf4b6cd0b542c1cb20684ef6d87b09384afa51efbea830aa7c1558b2"
+}
